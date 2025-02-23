@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/03446e07-ad94-4de6-8364-74436543d15d)
 
-Certo, analisando o seu projeto "Pokédex", aqui está uma descrição como se eu, um desenvolvedor de aplicativos web, estivesse apresentando meu próprio trabalho:
-
 **Descrição do Projeto: Pokédex Interativa**
 
 "Este projeto é uma Pokédex interativa desenvolvida para a web, que permite aos usuários buscar informações sobre Pokémon utilizando a API PokeAPI. Meu objetivo era criar uma interface amigável e intuitiva, que facilitasse a busca e visualização de dados sobre os Pokémon.
